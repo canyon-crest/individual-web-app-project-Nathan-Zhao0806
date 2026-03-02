@@ -1,1 +1,22 @@
 /* Add Global styles here */
+
+nav {
+    color:bisque;
+    background-color: green;
+    display:flex;
+    padding: -10px;
+flex-wrap:wrap;
+justify-content: space-around;
+text-align: center;
+font-size: large;
+}
+main {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:aquamarine;
+}
+footer{
+    background-color: black;
+    font-size: medium;
+    color:blueviolet;
+    text-align: center;
+}
