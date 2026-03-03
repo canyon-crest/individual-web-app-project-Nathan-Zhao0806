@@ -3,20 +3,29 @@
 nav {
     color:bisque;
     background-color: green;
-    display:flex;
-    padding: -10px;
-flex-wrap:wrap;
-justify-content: space-around;
-text-align: center;
-font-size: large;
+    display: flex;
+    padding: 0px;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    text-align: center;
+    font-size: large;
 }
 main {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:aquamarine;
 }
 footer{
-    background-color: black;
+    background-color: whitesmoke;
     font-size: medium;
     color:blueviolet;
     text-align: center;
+}
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+}
+li { color:blueviolet;}
+button{
+    color:cadetblue;
+    font-size: medium;
 }
